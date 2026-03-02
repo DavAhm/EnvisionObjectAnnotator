@@ -86,8 +86,7 @@ Follow the installation guide for Tools and Packages: [Tools and Packages Instal
 ---
 
 ## Citation
-If you use this tool in your research, please cite the EnvisionBox project.  
-*(Full reference will be added when publication is available.)*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18840160.svg)](https://doi.org/10.5281/zenodo.18840160)
 
 
 ---
