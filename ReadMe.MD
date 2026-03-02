@@ -86,6 +86,7 @@ Follow the installation guide for Tools and Packages: [Tools and Packages Instal
 ---
 
 ## Citation
+> Ahmar, D., Owoyele, B., & Pouw, W. (2024). EnvisionBoxAnnotator: An Automatic Object-to-Object Overlap Detector with SAM2 (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.18840160
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18840160.svg)](https://doi.org/10.5281/zenodo.18840160)
 
 
