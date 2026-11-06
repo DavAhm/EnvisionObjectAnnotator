@@ -92,6 +92,14 @@ Follow the installation guide for Tools and Packages: [Tools and Packages Instal
 
 ---
 
+## Licence
+
+This module is released under the open licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you are free to share and adapt it, provided you give appropriate credit (see [Citation](#citation)). Third-party material (e.g., [SAM2](https://github.com/facebookresearch/sam2)) remains subject to its original licence.
+
+See [`LICENSE`](LICENSE) for the full legal text. Please also cite SAM2: Ravi, N., et al. (2024). SAM 2: Segment anything in images and videos. *arXiv preprint arXiv:2408.00714*.
+
+---
+
 ##  Related Resources
 - [Meta AI SAM2](https://github.com/facebookresearch/sam2)  
 - [EnvisionBox Project](https://www.envisionbox.org)  
