@@ -7,7 +7,7 @@ authors:
     given-names: "B."
   - family-names: "Pouw"
     given-names: "W."
-title: "EnvisionBoxAnnotator: An Automatic Object-to-Object Overlap Detector with SAM2"
+title: "EnvisionObjectAnnotator: An Automatic Object-to-Object Overlap Detector with SAM2"
 version: 1.0.0
 doi: 10.5281/zenodo.18840160
 license: CC-BY-4.0
