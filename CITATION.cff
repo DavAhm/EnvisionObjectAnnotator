@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite it as below. Please also cite SAM2 (see references)."
 authors:
   - family-names: "Ahmar"
     given-names: "D."
@@ -9,7 +9,20 @@ authors:
     given-names: "W."
 title: "EnvisionBoxAnnotator: An Automatic Object-to-Object Overlap Detector with SAM2"
 version: 1.0.0
+doi: 10.5281/zenodo.18840160
+license: CC-BY-4.0
 date-released: 2025-09-21
 url: "https://envisionbox.org/index.html"
 repository-code: "https://github.com/DavAhm/EnvisionObjectAnnotator"
 type: software
+references:
+  - type: article
+    title: "SAM 2: Segment Anything in Images and Videos"
+    authors:
+      - family-names: Ravi
+        given-names: Nikhila
+      - name: "et al."
+    year: 2024
+    identifiers:
+      - type: other
+        value: "arXiv:2408.00714"
